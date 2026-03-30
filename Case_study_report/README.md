@@ -33,8 +33,6 @@ This repository is designed for a README-driven walkthrough and covers both case
 7. Move to `case-study-2/src/main.py`
 8. Finish with `case-study-2/terraform/` and `case-study-2/docs/02-scale-redesign.md`
 
-## Final interview position
-
 ### Case Study 1 verdict
 Use a **hybrid approach**:
 - **SnapMirror** for hot and warm NAS volumes that must cut over within the 4-hour window
