@@ -1,4 +1,4 @@
-# Cloud & Storage Engineering Interview Package
+# Cloud & Storage Engineering Case Study
 
 Prepared By  **Mohammed Tahir Khan**
 
